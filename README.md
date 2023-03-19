@@ -48,7 +48,6 @@
 		<li>ft_putchar_fd - output a character to a file descriptor</li>
 		<li>ft_putstr_fd - output a string to a file descriptor</li>
 		<li>ft_putendl_fd - output a string followed by a newline to a file descriptor</li>
-		<li>
 	<li>ft_putnbr_fd - output an integer to a file descriptor</li>
 </ul>
 
