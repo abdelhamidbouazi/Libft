@@ -1,6 +1,6 @@
 # Libft Project
 
-The Libft project is part of the 42 Network's curriculum, and requires students to implement their own library of basic C functions. This project contains my implementation of the functions, which I wrote from scratch.
+The Libft project is part of the 1337's curriculum, and requires students to implement their own library of basic C functions. This project contains my implementation of the functions, which I wrote from scratch.
 
 ## Functions
 
